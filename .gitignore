@@ -1,2 +1,13 @@
 ﻿Library
-
+.vscode
+.vs
+Logs
+Modthecube
+obj
+ProjectSettings
+Temp
+UserSettings
+.DS_Store
+.vsconfig
+Assembly-CSharp.csproj
+Assets/Materials
