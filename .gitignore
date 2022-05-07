@@ -10,4 +10,7 @@ UserSettings
 .DS_Store
 .vsconfig
 Assembly-CSharp.csproj
-Assets/Materials
+Assets\Materials
+Assets\Scenes
+Assets\*.meta
+
