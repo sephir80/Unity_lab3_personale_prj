@@ -13,4 +13,4 @@ Assembly-CSharp.csproj
 Assets\Materials
 Assets\Scenes
 Assets\*.meta
-
+Assets\*.cs.meta
